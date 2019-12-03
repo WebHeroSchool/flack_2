@@ -1,0 +1,21 @@
+@media (min-width:320px) {
+ .heading {
+ 	font-size: 15px;}}
+@media (min-width: 641px) {
+ .heading {
+ 	font-size: 32px;
+ }
+}
+.heading__first-letter {
+  color: red;
+  }
+.heading__subtitle {
+  color: white;
+  background: green;
+  }
+  .heading__navigation-pan {
+  background: #C0C0C0;
+  }
+.article__aside-bar-right {
+  background: grey;
+}
